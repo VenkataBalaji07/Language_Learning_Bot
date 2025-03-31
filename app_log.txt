@@ -1,0 +1,245 @@
+2025-03-28 09:59:29,740 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 09:59:34,932 - INFO - Tables created/verified successfully
+2025-03-28 09:59:34,935 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 09:59:58,460 - INFO - Tables created/verified successfully
+2025-03-28 09:59:58,461 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:00:24,198 - INFO - Tables created/verified successfully
+2025-03-28 10:00:24,202 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:00:24,216 - ERROR - Session Creation Error: 1054 (42S22): Unknown column 'last_active' in 'field list'
+2025-03-28 10:03:06,456 - ERROR - System initialization failed: CheckboxMixin.checkbox() got an unexpected keyword argument 'default'
+2025-03-28 10:03:15,435 - ERROR - System initialization failed: CheckboxMixin.checkbox() got an unexpected keyword argument 'default'
+2025-03-28 10:03:25,752 - ERROR - System initialization failed: CheckboxMixin.checkbox() got an unexpected keyword argument 'default'
+2025-03-28 10:03:31,522 - ERROR - System initialization failed: CheckboxMixin.checkbox() got an unexpected keyword argument 'default'
+2025-03-28 10:05:27,549 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 10:05:33,517 - INFO - Tables created/verified successfully
+2025-03-28 10:05:33,519 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:05:54,732 - INFO - Tables created/verified successfully
+2025-03-28 10:05:54,734 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:06:12,235 - INFO - Tables created/verified successfully
+2025-03-28 10:06:12,235 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:06:12,243 - ERROR - Session Creation Error: 1054 (42S22): Unknown column 'last_active' in 'field list'
+2025-03-28 10:09:40,781 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 10:09:45,072 - INFO - Tables created/verified successfully
+2025-03-28 10:09:45,075 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:10:06,585 - INFO - Tables created/verified successfully
+2025-03-28 10:10:06,586 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:10:27,666 - INFO - Tables created/verified successfully
+2025-03-28 10:10:27,671 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:10:27,682 - ERROR - Session Creation Error: 1054 (42S22): Unknown column 'last_active' in 'field list'
+2025-03-28 10:16:09,172 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 10:16:13,962 - INFO - Tables created/verified successfully
+2025-03-28 10:16:13,967 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:16:37,110 - INFO - Tables created/verified successfully
+2025-03-28 10:16:37,112 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:16:58,898 - INFO - Tables created/verified successfully
+2025-03-28 10:16:58,899 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:16:58,962 - INFO - Session created for Tulasi with ID: 6
+2025-03-28 10:26:20,997 - ERROR - System initialization failed: No secrets files found. Valid paths for a secrets.toml file are: C:\Users\dudimani tulasi\.streamlit\secrets.toml, C:\Users\dudimani tulasi\Desktop\AI chatbot\.streamlit\secrets.toml
+2025-03-28 10:26:26,707 - ERROR - System initialization failed: No secrets files found. Valid paths for a secrets.toml file are: C:\Users\dudimani tulasi\.streamlit\secrets.toml, C:\Users\dudimani tulasi\Desktop\AI chatbot\.streamlit\secrets.toml
+2025-03-28 10:26:43,716 - INFO - Tables created/verified successfully
+2025-03-28 10:26:43,716 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:26:57,055 - INFO - Tables created/verified successfully
+2025-03-28 10:26:57,056 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:26:57,081 - INFO - Session created for Tulasi with ID: 7
+2025-03-28 10:26:57,083 - ERROR - Learning session error: 'LanguageLearningChatbot' object has no attribute 'generate_conversation_scene'
+2025-03-28 10:28:15,880 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 10:28:20,611 - INFO - Tables created/verified successfully
+2025-03-28 10:28:20,613 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:28:34,183 - INFO - Tables created/verified successfully
+2025-03-28 10:28:34,185 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:28:46,575 - INFO - Tables created/verified successfully
+2025-03-28 10:28:46,576 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:28:46,597 - INFO - Session created for Tulasi with ID: 8
+2025-03-28 10:29:40,412 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 10:29:45,751 - INFO - Tables created/verified successfully
+2025-03-28 10:29:45,752 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:29:59,151 - INFO - Tables created/verified successfully
+2025-03-28 10:29:59,156 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:30:14,458 - INFO - Tables created/verified successfully
+2025-03-28 10:30:14,459 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:30:14,476 - INFO - Session created for Tulasi with ID: 9
+2025-03-28 10:48:06,954 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 10:48:36,908 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+2025-03-28 10:48:57,490 - INFO - Tables created/verified successfully
+2025-03-28 10:48:57,491 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:49:52,307 - WARNING - Model gemini-1.5-pro-latest initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:49:52,703 - WARNING - Model gemini-1.5-flash-latest initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:49:53,753 - WARNING - Model gemini-pro initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:49:53,783 - INFO - Tables created/verified successfully
+2025-03-28 10:49:53,784 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:49:56,620 - WARNING - Model gemini-1.5-pro-latest initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:49:56,937 - WARNING - Model gemini-1.5-flash-latest initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:49:58,054 - WARNING - Model gemini-pro initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:49:58,093 - INFO - Tables created/verified successfully
+2025-03-28 10:49:58,094 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:50:10,079 - WARNING - Model gemini-1.5-pro-latest initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:50:10,613 - WARNING - Model gemini-1.5-flash-latest initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:50:11,042 - WARNING - Model gemini-pro initialization failed: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 10:50:11,085 - INFO - Tables created/verified successfully
+2025-03-28 10:50:11,086 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 10:50:11,123 - INFO - Session created for Balu with ID: 10
+2025-03-28 10:50:12,166 - ERROR - Error generating conversation: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2025-03-28 11:05:44,350 - INFO - Tables created/verified successfully
+2025-03-28 11:05:44,351 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:05:51,691 - INFO - Tables created/verified successfully
+2025-03-28 11:05:51,692 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:05:51,714 - INFO - Session created for Balu with ID: 11
+2025-03-28 11:08:15,980 - INFO - Tables created/verified successfully
+2025-03-28 11:08:15,980 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:08:15,991 - INFO - Session created for Chinna with ID: 12
+2025-03-28 11:08:47,657 - INFO - Tables created/verified successfully
+2025-03-28 11:08:47,657 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:08:47,666 - INFO - Session created for Chinna with ID: 13
+2025-03-28 11:08:47,972 - ERROR - Error generating conversation: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-03-28 11:08:51,942 - WARNING - Model gemini-1.5-pro-latest initialization failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 10
+}
+]
+2025-03-28 11:08:52,537 - INFO - Tables created/verified successfully
+2025-03-28 11:08:52,538 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:08:52,546 - INFO - Session created for Chinna with ID: 14
+2025-03-28 11:09:06,852 - WARNING - Model gemini-1.5-pro-latest initialization failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-03-28 11:09:07,372 - WARNING - Model gemini-1.5-pro-latest initialization failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-03-28 11:09:08,002 - INFO - Tables created/verified successfully
+2025-03-28 11:09:08,002 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:09:08,008 - ERROR - Sessions Retrieval Error: 1054 (42S22): Unknown column 'created_at' in 'order clause'
+2025-03-28 11:09:29,708 - INFO - Tables created/verified successfully
+2025-03-28 11:09:29,708 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:09:29,713 - ERROR - Sessions Retrieval Error: 1054 (42S22): Unknown column 'created_at' in 'order clause'
+2025-03-28 11:19:38,313 - INFO - Tables created/verified successfully
+2025-03-28 11:19:38,313 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:19:38,322 - INFO - Session created for Chinna with ID: 15
+2025-03-28 11:25:12,555 - INFO - Tables created/verified successfully
+2025-03-28 11:25:12,556 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:25:12,567 - INFO - Session created for Seenu with ID: 16
+2025-03-28 11:25:47,934 - INFO - Tables created/verified successfully
+2025-03-28 11:25:47,934 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:25:47,944 - INFO - Session created for Seenu with ID: 17
+2025-03-28 11:25:48,234 - ERROR - Error generating conversation: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 14
+}
+]
+2025-03-28 11:26:33,903 - INFO - Tables created/verified successfully
+2025-03-28 11:26:33,903 - INFO - Successfully connected to database: language_learning_db
+2025-03-28 11:26:33,912 - INFO - Session created for Seenu with ID: 18
+2025-03-28 11:27:22,796 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+2025-03-28 11:27:34,719 - ERROR - Database Connection Error: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
